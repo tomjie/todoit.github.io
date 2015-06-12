@@ -2,7 +2,7 @@
 layout: page
 title: RapidJSON 代码剖析（一）：混合任意类型的堆栈
 categories:
-    - rapidjson
+    - informatics
 image:
     title: header_rapidjson_stack.jpg
     thumb: header_rapidjson_stack_thumb.jpg
@@ -179,3 +179,4 @@ public:
 [stdstack]: http://en.cppreference.com/w/cpp/container/stack
 [stack.h]: https://github.com/miloyip/rapidjson/blob/v1.0.1/include/rapidjson/internal/stack.h
 [genericstringbuffer.h]: https://github.com/miloyip/rapidjson/blob/v1.0.1/include/rapidjson/stringbuffer.h
+

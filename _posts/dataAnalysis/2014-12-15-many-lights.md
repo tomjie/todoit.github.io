@@ -2,7 +2,7 @@
 layout: page
 title: SIGGRAPH Asia 2014 见闻之《高效地使用大量光源于实时着色》课程
 categories:
-    - graphics
+    - dataAnalysis
 header:
     image_fullwidth: manylights_header.jpg
     caption: Photograph by Ryan Pouncy
@@ -80,3 +80,5 @@ A, 2012. ACM.
 [10] Yusuke Tokuyoshi. [Virtual spherical gaussian lights for real-time glossy indirect illumination](http://www.jp.square-enix.com/info/library/pdf/Virtual%20Spherical%20Gaussian%20Lights%20for%20Real-Time%20Glossy%20Indirect%20Illumination.pdf). In SIGGRAPH Asia 2014 Technical Briefs, page 17. ACM, 2014. 
 
 本文原于2014年12月15日在腾讯内部揭载，获授权公开。
+
+
