@@ -1,2 +1,3 @@
-# datasciencecoursera
-Course Project of datasciencecoursera repo
+# Milo的ex-Hippocampus
+
+http://miloyip.com/
