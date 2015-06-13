@@ -18,5 +18,11 @@ RENAME DATABASE db_name TO new_db_name;
 RENAME SCHEMA db_name TO new_db_name;
 {% endhighlight %}
 
+{% highlight r%}
+library(abc)
+test <- 2
+print(test)
+{% endhighlight %}
+
 这次一边做网页，也算是一边学习MySQL了。其实到现在为止基本上还是一个糊涂蛋。
 
