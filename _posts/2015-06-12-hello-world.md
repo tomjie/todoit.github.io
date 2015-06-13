@@ -16,7 +16,7 @@ a <- 2
 b <- 3
 print(a+b)
 
-{% endhighlight%}
+{% endhighlight %}
 
 ##列表测试
 - list1
