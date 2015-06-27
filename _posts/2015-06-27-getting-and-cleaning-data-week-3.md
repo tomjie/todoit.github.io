@@ -10,6 +10,8 @@ tags:
 
 ## 1 subsetting and sorting
 
+***
+
 ```{r}
 setwd("/Users/Eric/study/RProject/coursear/datasciencecoursera/2_getdata/week3")
 
@@ -39,7 +41,7 @@ x[order(x$var2, x$var1), ]
 ```
 
 
-###使用plyr函数进行排序
+###使用plyr包进行排序
 ```{r}
 library(plyr)
 
@@ -61,6 +63,8 @@ y <- cbind(x, rnorm(10))
 ```
 
 ## 2 summary data
+
+****
 
 https://data.baltimorecity.gov/Culture-Arts/Restaurants/k5ry-ef3g?
 https://data.baltimorecity.gov/api/views/k5ry-ef3g/rows.csv?accessType=DOWNLOAD
