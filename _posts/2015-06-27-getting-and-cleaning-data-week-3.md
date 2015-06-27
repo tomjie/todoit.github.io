@@ -8,13 +8,6 @@ tags:
 - coursera学习
 ---
 
----
-title: "week3_1"
-author: "todoit"
-date: "2015年6月27日"
-output: html_document
----
-
 ## 1 subsetting and sorting
 
 ```{r}
