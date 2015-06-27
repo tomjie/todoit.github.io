@@ -18,7 +18,7 @@ tags:
 
 ##引言
 当前的计量学研究如火如荼，科学计量学（sciento-metrics）、文献计量学（biblio-metrics）、信息计量学（infor-metrics）、替代计量学（alt-metrics）等等，但是这样研究主要用于评价(
-[Science and technology studies: Exploring the knowledge base. Research Policy](http://www.sciencedirect.com/science/article/pii/S0048733312000716) [[下载] (http://digital.csic.es/bitstream/10261/35242/1/Martin%20Nightingale%20Yegros%20DIME%202011.pdf)]，例如影响因子，H指数、大学排名、国家级的科学指标等等。使用基于文献的指标进行演讲评价已经有40多年的历史，一些文献计量期刊、会议等等都说明该领域已经发展很快，因此使用科技文献进行研究评价的领域已经很成熟。
+[Science and technology studies: Exploring the knowledge base. Research Policy](http://www.sciencedirect.com/science/article/pii/S0048733312000716) [[下载] (http://digital.csic.es/butitstream/10261/35242/1/Martin%20Nightingale%20Yegros%20DIME%202011.pdf)]，例如影响因子，H指数、大学排名、国家级的科学指标等等。使用基于文献的指标进行演讲评价已经有40多年的历史，一些文献计量期刊、会议等等都说明该领域已经发展很快，因此使用科技文献进行研究评价的领域已经很成熟。
 
 但是在研究计划领域，计量学研究就相对较少，计划相关的问题([An Introduction to Modeling Science: Basic Model Types, Key Definitions, and a General Framework for the Comparison of Process Models](http://link.springer.com/chapter/10.1007/978-3-642-23068-4_1))不用于评价问题，而且被基金资助者、管理者和研究人员所关注，因此，需要不同于评价方法的模型。例如
 > - 计划可能更需要新兴主题的发现和识别模型；
