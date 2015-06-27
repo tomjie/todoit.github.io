@@ -8,7 +8,7 @@ tags:
 - coursera学习
 ---
 
-## 1 subsetting and sorting
+# 1 subsetting and sorting
 
 ***
 
@@ -62,7 +62,7 @@ y <- cbind(x, rnorm(10))
 
 ```
 
-## 2 summary data
+# 2 summary data
 
 ****
 
