@@ -49,6 +49,7 @@ public class CharacterEncodingFilter implements Filter {
 - ##将过滤器加入到web.xml中
 
 {% highlight xml %} 
+
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="2.5" 
 	xmlns="http://java.sun.com/xml/ns/javaee" 
@@ -85,9 +86,9 @@ public class CharacterEncodingFilter implements Filter {
 <Connector port="8080" protocol="HTTP/1.1" 
                connectionTimeout="20000" 
                redirectPort="8443"  
-               URIEncoding="UTF-8" /> #修改为
+               URIEncoding="UTF-8" /> 
                
-{% highlight xml %} 
+{%  endhighlight %} 
 
 
 
