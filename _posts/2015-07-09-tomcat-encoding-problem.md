@@ -13,7 +13,8 @@ tags:
 
 于是经人指点使用了过滤器。过滤器的使用方法:
 > 编写过滤器类
-``` {java}
+
+{% highlight java %} 
 package cn.ac.imicams.todoit.util.encoding;
 import java.io.IOException;
 import javax.servlet.Filter;
@@ -43,7 +44,7 @@ public class CharacterEncodingFilter implements Filter {
     }
 }
 
- ```
+{% endhighlight %}
 
 > 将过滤器加入到web.xml中
 
