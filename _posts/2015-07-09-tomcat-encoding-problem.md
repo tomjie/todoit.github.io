@@ -12,7 +12,8 @@ tags:
 以前总是用`new string(.getbytes( iso-8859-1 ) utf-8 )`处理中文乱码，但是后来经大牛指点，发现这种方式不仅使用繁琐而且不友好，经常无缘无故出问题。
 
 于是经人指点使用了过滤器。过滤器的使用方法:
-- ##编写过滤器类
+
+- ## 编写过滤器类
 
 {% highlight java %} 
 package cn.ac.imicams.todoit.util.encoding;
@@ -46,7 +47,7 @@ public class CharacterEncodingFilter implements Filter {
 
 {% endhighlight %}
 
-- ##将过滤器加入到web.xml中
+- ## 将过滤器加入到web.xml中
 
 {% highlight xml %} 
 
